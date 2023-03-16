@@ -1,4 +1,5 @@
-Probability-Based Graph Embedding Cross-Domain and Class Discriminative Feature Learning for Domain Adaptation
+# Probability-Based Graph Embedding Cross-Domain and Class Discriminative Feature Learning for Domain Adaptation
+## IEEE Transactions on Image Processing
 
 
 Code for our PGCD
